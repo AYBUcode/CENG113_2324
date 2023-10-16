@@ -1,7 +1,0 @@
-public class W0 {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        System.out.println("END");
-        float a = 5 / 0;
-    }
-}
